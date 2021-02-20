@@ -1,23 +1,9 @@
-
-<!--
-**Sharkyer1/Sharkyer1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# ✌ Hi, I'm Nathan!
 
 # Nathan Edhuardo :man_technologist:
 
-I'm an 17-years-old self-taught developer based in Pernambuco, Brazil.
-Currently I recommend it as a hobby, I really like JavaScript, html and css.
+- I'm an 17-years-old self-taught developer based in Pernambuco, Brazil.
+- Currently I recommend it as a hobby, I really like JavaScript, html and css.
 
 ##
 ![](https://img.shields.io/badge/‎-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=plastic)

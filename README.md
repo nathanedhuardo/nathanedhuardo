@@ -10,6 +10,10 @@
 ![](https://img.shields.io/badge/‎-HTML-CC342D?logo=html5&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/‎-CSS-1572B6?logo=css3&logoColor=white&style=plastic)
 
+## Follow me around the interwebs
+
+- 🐦 **[Twitter] (https://twitter.com/Sharkyer1)** @Sharkyer1
+
 
 
 

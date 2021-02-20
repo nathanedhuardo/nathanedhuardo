@@ -1,4 +1,3 @@
-# ✌ Hi, I'm Nathan!
 
 # Nathan Edhuardo :man_technologist:
 
@@ -12,7 +11,7 @@
 
 ## Follow me around the interwebs
 
-- 🐦 **[Twitter] (https://twitter.com/Sharkyer1)** @Sharkyer1
+- 🐦 **[Twitter](https://twitter.com/Sharkyer1)** @Sharkyer1
 
 
 

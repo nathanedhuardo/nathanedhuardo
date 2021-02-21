@@ -2,7 +2,7 @@
 # Nathan Edhuardo :man_technologist:
 
 - I'm an 17-years-old self-taught developer based in Pernambuco, Brazil.
-- Currently I recommend it as a hobby, I really like JavaScript, html and css.
+- Currently a hobby program, I really like JavaScript, html and css.
 
 ##
 ![](https://img.shields.io/badge/‎-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=plastic)

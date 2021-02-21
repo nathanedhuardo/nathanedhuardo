@@ -2,7 +2,7 @@
 # Nathan Edhuardo :man_technologist:
 
 - I'm an 17-years-old self-taught developer based in Pernambuco, Brazil.
-- I am currently studying systems development at my technical college, I love JavaScript, Html and css.
+- I am currently studying system development at my technical school, I love JavaScript, Html and css.
 
 ##
 ![](https://img.shields.io/badge/‎-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=plastic)

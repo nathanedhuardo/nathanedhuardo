@@ -11,7 +11,7 @@
 
 ## Follow me around the interwebs
 
-<img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/> **[Twitter](https://twitter.com/Sharkyer1)** @Sharkyer1
+<img src="https://img.icons8.com/color/16/000000/twitter--v1.png"/> **[Twitter](https://twitter.com/Sharkyer1)** @Sharkyer1
 
 
 

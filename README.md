@@ -9,6 +9,7 @@
 ![](https://img.shields.io/badge/‎-CSS-1572B6?logo=css3&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/‎-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/‎-PostgreSQL-F7DF1E?logo=PostgreSQL&blue=blue&style=plastic)
+![](https://img.shields.io/badge/‎-Prisma-F7DF1E?logo=Prisma&logoColor=white&style=plastic)
 
 
 ## Follow me around the interwebs

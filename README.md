@@ -11,7 +11,7 @@
 
 ## Follow me around the interwebs
 
-- ![image](https://user-images.githubusercontent.com/79370593/132096186-c723fc0e-7ff1-47dc-9b70-79317ee5cb19.png) **[Twitter](https://twitter.com/Sharkyer1)** @Sharkyer1
+<img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/> **[Twitter](https://twitter.com/Sharkyer1)** @Sharkyer1
 
 
 

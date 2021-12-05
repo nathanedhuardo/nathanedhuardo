@@ -15,7 +15,7 @@
   <img align="center" alt="Nathan-CSS" Height="30" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Nathan-JS" Height="30" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Nathan-JS" Height="30" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="right" alt="Nathan-gif" Height="150" src="https://i.picasion.com/pic91/2bfc46a93c881a17f407f00453cf0adb.gif"
+  <img align="right" alt="Nathan-gif" Height="150" src="https://64.media.tumblr.com/9973f2fc1ab8a6bf5388fa64951b58b9/tumblr_o2yr6fzeoA1toeirko1_500.gifv"
   </div>
   
 ## Follow me around the interwebs

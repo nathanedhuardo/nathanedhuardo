@@ -15,7 +15,7 @@
   <img align="center" alt="Nathan-CSS" Height="30" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Nathan-JS" Height="30" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Nathan-JS" Height="30" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="right" alt="Nathan-gif" Height="150" src="https://giffiles.alphacoders.com/175/175676.gif"
+  <img align="right" alt="Nathan-gif" Height="150" src="https://c.tenor.com/i8aJNrQgF8EAAAAC/inazuma-eleven-go-chrono-stone-inago-cs.gif"
   </div>
   
 ## Follow me around the interwebs

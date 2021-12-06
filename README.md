@@ -1,7 +1,7 @@
 
 # Nathan Edhuardo :man_technologist:
 
-- I'm an 17-years-old self-taught developer based in Pernambuco, Brazil.
+- I'm an 18-years-old self-taught developer based in Pernambuco, Brazil.
 - I am currently studying system development at my technical school, I love JavaScript, Html and css.
 
 ##

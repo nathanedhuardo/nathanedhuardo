@@ -5,10 +5,6 @@
 - I'm currently studying Javascript with a focus on the backend.
 
 ##
- <div>
-  <a href="https://github.com/Sharkyer1">
-  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=Sharkyer1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
- </div>
  <div style="display: inline_block"><br>
   <img align="center" alt="Nathan-JS" Height="30" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="right" alt="Nathan-gif" Height="150" src="https://64.media.tumblr.com/9973f2fc1ab8a6bf5388fa64951b58b9/tumblr_o2yr6fzeoA1toeirko1_500.gifv"

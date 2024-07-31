@@ -2,7 +2,8 @@
 # Nathan Edhuardo :man_technologist:
 
 - I'm an 20-years-old self-taught developer based in Pernambuco, Brazil.
-- I'm currently studying Javascript with a focus on the backend.
+- I am currently studying computer science at [UFAPE](http://ufape.edu.br).
+- I'm currently studying Javascript with a focus on the frontend/backend.
 
 ##
  <div style="display: inline_block"><br>

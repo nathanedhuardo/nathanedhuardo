@@ -1,5 +1,5 @@
 
-# Nathan Edhuardo :comet:
+# Nathan Edhuardo 🌃
 
 - I'm an 20-years-old self-taught developer based in Pernambuco, Brazil.
 - I am currently studying computer science at [UFAPE](http://ufape.edu.br).

@@ -14,7 +14,7 @@
   <img align='center' alt='js'  src='https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white'>
   </div>
   
-## Follow me around the interwebs
+## Contact
   <div>
   <a href = "mailto:edhuardonathan@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23E4405F?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <img align="right" alt="Nathan-gif" Height="150" src="https://64.media.tumblr.com/9973f2fc1ab8a6bf5388fa64951b58b9/tumblr_o2yr6fzeoA1toeirko1_500.gifv"

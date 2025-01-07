@@ -1,7 +1,7 @@
 
 # Nathan Edhuardo 🔭
 
-- I'm an 20-years-old self-taught developer based in Pernambuco, Brazil.
+- I'm an 21-years-old self-taught developer based in Pernambuco, Brazil.
 - I am currently studying computer science at [UFAPE](http://ufape.edu.br).
 - I'm currently studying Javascript with a focus on the frontend/backend.
 

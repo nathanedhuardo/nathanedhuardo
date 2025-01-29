@@ -3,7 +3,7 @@
 
 - I'm an 22-years-old self-taught developer based in Pernambuco, Brazil.
 - I am currently studying computer science at [UFAPE](http://ufape.edu.br).
-- I'm currently studying Javascript with a focus on the frontend.
+- I'm currently studying Javascript(ReactJS) with a focus on the frontend.
 - I currently work at [LMTS](https://github.com/lmtsufape) as a frontend developer
 
 ##

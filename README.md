@@ -22,7 +22,6 @@
   <img align="right" alt="Nathan-gif" Height="150" src="https://64.media.tumblr.com/9973f2fc1ab8a6bf5388fa64951b58b9/tumblr_o2yr6fzeoA1toeirko1_500.gifv"
   </div>
 
-![Snake animation](https://github.com/nathanedhuardo/nathanedhuardo/blob/output/github-contribution-grid-snake.svg)
   
 
  
